@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Bose</h1> <hr><br>
 
 # 💫 About Me:
-🤖 I’m currently working as Salesforce Developer<br><br>🌱 I’m currently learning Blockchain technology<br><br>👯 I’m looking to collaborate on Android based Projects<br><br>🤝 I’m looking for help with Blockchain Development<br><br>💬 Ask me about Flutter, Android Native, Salesforce Apex, React JS, Spring Boot, Python, Django, Java<br><br>📫 How to reach me abinfo2310@gmail.com<br><br>⚡ Fun fact I am an adventurous and humorous person by nature.
+🤖 I’m currently working as a Software Developer (Backend)<br><br>🌱 I am open to collaborating for freelancing projects and also possess experience for full stack app development with Flutter and Native Android and backend development with Node JS, Spring Boot, Laravel and CodeIgniter Frameworks.<br><br>🤝 I'm looking forward to connecting with more tech enthusiasts in development and cloud-devops domain.☁️ <br><br>💬 Ask me about Flutter, Android Native, React JS, Spring Boot, Python, Django, Java, PHP, Laravel;<br><br>📫 Reach Me at abinfo2310@gmail.com<br><br>⚡ Fun fact I am an adventurous and humorous person by nature.
 
 
 ## 🌐 Socials:
